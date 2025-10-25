@@ -526,19 +526,11 @@ open htmlcov/index.html
 ```
 
 **Current Coverage:**
-- `app/calculator.py`: 98%
+- `app/calculator.py`: 100%
 - `app/calculator_repl.py`: 100%
 - `app/operations.py`: 100%
-- `app/history.py`: 97%
-- **Overall**: 96%
-
-### Test Statistics
-
-- **Total Tests**: 217
-- **Passed**: 217 ✅
-- **Failed**: 0
-- **Skipped**: 0
-- **Test Execution Time**: ~4.2s
+- `app/history.py`: 100%
+- **Overall**: 1--%
 
 ---
 
